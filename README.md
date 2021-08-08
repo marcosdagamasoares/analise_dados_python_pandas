@@ -1,4 +1,4 @@
-## Repositório Python para análise de dados com Python e Pandas.##
+## Repositório Python para análise de dados com Python e Pandas.
 
  - Estrutura de dados
  - Introdução a Biblioteca Pandas
